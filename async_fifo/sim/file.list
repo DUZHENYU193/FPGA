@@ -1,0 +1,3 @@
+../rtl/async_fifo.v
+../rtl/ram.v
+../rtl/tb_async_fifo.v
