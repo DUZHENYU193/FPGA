@@ -1,0 +1,67 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\lys\Desktop\DDS\prj\simulation\modelsim
+vDDS
+IVHV^0S9bWLmDzkUz5D6oe2
+VnO;fo=PBjclU8C3[0Ujac0
+Z1 dC:\Users\lys\Desktop\DDS\prj\simulation\modelsim
+w1644298763
+8C:/Users/lys/Desktop/DDS/rtl/DDS.v
+FC:/Users/lys/Desktop/DDS/rtl/DDS.v
+L0 1
+Z2 OV;L;10.1d;51
+r1
+31
+Z3 o-vlog01compat -work work -O0
+n@d@d@s
+!i10b 1
+!s100 l;hcARP4>;CF>D2FoGFkC2
+!s85 0
+!s108 1644299034.779000
+!s107 C:/Users/lys/Desktop/DDS/rtl/DDS.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/lys/Desktop/DDS/rtl|C:/Users/lys/Desktop/DDS/rtl/DDS.v|
+!s101 -O0
+!s92 -vlog01compat -work work +incdir+C:/Users/lys/Desktop/DDS/rtl -O0
+vDDS_tb
+!i10b 1
+!s100 0F2fPWN^fF7jIO`aV>_<j3
+IYV9Faf04eoOZaVW<5?lad1
+VYhSPXLUoVk@1V@4<@>n>13
+R1
+w1644298966
+8C:/Users/lys/Desktop/DDS/prj/../sim/DDS_tb.v
+FC:/Users/lys/Desktop/DDS/prj/../sim/DDS_tb.v
+L0 3
+R2
+r1
+!s85 0
+31
+!s108 1644299035.016000
+!s107 C:/Users/lys/Desktop/DDS/prj/../sim/DDS_tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/lys/Desktop/DDS/prj/../sim|C:/Users/lys/Desktop/DDS/prj/../sim/DDS_tb.v|
+!s101 -O0
+R3
+!s92 -vlog01compat -work work +incdir+C:/Users/lys/Desktop/DDS/prj/../sim -O0
+n@d@d@s_tb
+vsinrom
+IfJZ5fRFLjKJai8_MdU<JX0
+V0OmiEkK@P:gBReO7Q>61?0
+R1
+w1644299004
+8C:/Users/lys/Desktop/DDS/prj/sinrom.v
+FC:/Users/lys/Desktop/DDS/prj/sinrom.v
+L0 39
+R2
+r1
+31
+R3
+!i10b 1
+!s100 C:F=]^UUl9SDeJT@1oeGb0
+!s85 0
+!s108 1644299034.399000
+!s107 C:/Users/lys/Desktop/DDS/prj/sinrom.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/lys/Desktop/DDS/prj|C:/Users/lys/Desktop/DDS/prj/sinrom.v|
+!s101 -O0
+!s92 -vlog01compat -work work +incdir+C:/Users/lys/Desktop/DDS/prj -O0

@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="sync_fifo">
+		<CBX_INST_ENTRY INSTANCE_NAME="|sync_fifo|fifo:u_fifo|scfifo:scfifo_component" CBX_FILE_NAME="scfifo_mb31.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

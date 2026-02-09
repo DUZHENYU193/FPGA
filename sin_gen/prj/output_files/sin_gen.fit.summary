@@ -1,0 +1,20 @@
+Fitter Status : Successful - Sat Jan 17 22:28:38 2026
+Quartus II 64-Bit Version : 13.0.0 Build 156 04/24/2013 SJ Full Version
+Revision Name : sin_gen
+Top-level Entity Name : sin_gen
+Family : Cyclone IV GX
+Device : EP4CGX15BF14A7
+Timing Models : Final
+Total logic elements : 8 / 14,400 ( < 1 % )
+    Total combinational functions : 8 / 14,400 ( < 1 % )
+    Dedicated logic registers : 8 / 14,400 ( < 1 % )
+Total registers : 8
+Total pins : 27 / 81 ( 33 % )
+Total virtual pins : 0
+Total memory bits : 4,096 / 552,960 ( < 1 % )
+Embedded Multiplier 9-bit elements : 0
+Total GXB Receiver Channel PCS : 0 / 2 ( 0 % )
+Total GXB Receiver Channel PMA : 0 / 2 ( 0 % )
+Total GXB Transmitter Channel PCS : 0 / 2 ( 0 % )
+Total GXB Transmitter Channel PMA : 0 / 2 ( 0 % )
+Total PLLs : 0 / 3 ( 0 % )

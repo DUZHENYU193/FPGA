@@ -1,0 +1,50 @@
+# Reading C:/altera/13.0/modelsim_ase/tcl/vsim/pref.tcl 
+# do DDS_run_msim_rtl_verilog.do 
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Copying C:\altera\13.0\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# ** Warning: Copied C:\altera\13.0\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini.
+#          Updated modelsim.ini.
+# 
+# vlog -vlog01compat -work work +incdir+C:/Users/lys/Desktop/DDS/prj {C:/Users/lys/Desktop/DDS/prj/sinrom.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module sinrom
+# 
+# Top level modules:
+# 	sinrom
+# vlog -vlog01compat -work work +incdir+C:/Users/lys/Desktop/DDS/rtl {C:/Users/lys/Desktop/DDS/rtl/DDS.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module DDS
+# 
+# Top level modules:
+# 	DDS
+# 
+# vlog -vlog01compat -work work +incdir+C:/Users/lys/Desktop/DDS/prj/../sim {C:/Users/lys/Desktop/DDS/prj/../sim/DDS_tb.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module DDS_tb
+# 
+# Top level modules:
+# 	DDS_tb
+# 
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work -voptargs="+acc"  DDS_tb
+# vsim -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work -voptargs=\"+acc\" -t 1ps DDS_tb 
+# Loading work.DDS_tb
+# Loading work.DDS
+# Loading work.sinrom
+# Loading altera_mf_ver.altsyncram
+# Loading altera_mf_ver.ALTERA_DEVICE_FAMILIES
+# Loading altera_mf_ver.ALTERA_MF_MEMORY_INITIALIZATION
+# 
+# add wave *
+# view structure
+# .main_pane.structure.interior.cs.body.struct
+# view signals
+# .main_pane.objects.interior.cs.body.tree
+# run -all
+# Break in Module DDS_tb at C:/Users/lys/Desktop/DDS/prj/../sim/DDS_tb.v line 36
+# Simulation Breakpoint: Break in Module DDS_tb at C:/Users/lys/Desktop/DDS/prj/../sim/DDS_tb.v line 36
+# MACRO ./DDS_run_msim_rtl_verilog.do PAUSED at line 18

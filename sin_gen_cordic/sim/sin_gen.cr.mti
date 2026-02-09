@@ -1,0 +1,22 @@
+C:/Users/duzhe/OneDrive/Desktop/sin_gen_cordic/rtl/sin_gen.v {1 {vlog -work work -vopt -stats=none C:/Users/duzhe/OneDrive/Desktop/sin_gen_cordic/rtl/sin_gen.v
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module sin_gen
+
+Top level modules:
+	sin_gen
+
+} {} {}} C:/Users/duzhe/OneDrive/Desktop/sin_gen_cordic/rtl/sin_gen_tb.v {1 {vlog -work work -vopt -stats=none C:/Users/duzhe/OneDrive/Desktop/sin_gen_cordic/rtl/sin_gen_tb.v
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module sin_gen_tb
+
+Top level modules:
+	sin_gen_tb
+
+} {} {}} C:/Users/duzhe/OneDrive/Desktop/sin_gen_cordic/rtl/cordic_core.v {1 {vlog -work work -vopt -stats=none C:/Users/duzhe/OneDrive/Desktop/sin_gen_cordic/rtl/cordic_core.v
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module cordic_core
+
+Top level modules:
+	cordic_core
+
+} {} {}}

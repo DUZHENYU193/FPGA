@@ -1,0 +1,85 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/duzhe/OneDrive/Desktop/sin_gen/prj/simulation/modelsim
+T_opt
+!s110 1768660136
+Vilc[fZXZSU<4B[fTz6d<X3
+04 10 4 work sin_gen_tb fast 0
+=1-3887d5360e84-696b9ca8-ad-3454
+o-quiet -auto_acc_if_foreign -work work -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneiv_hssi_ver -L cycloneiv_pcie_hip_ver -L cycloneiv_ver -L rtl_work -L work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;10.5;63
+vsin_gen
+Z2 !s110 1768660135
+!i10b 1
+!s100 hF0eZYb>7KajnBI5MEibg2
+IjW4V5I[fklfAYYW;nOo701
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1768659815
+8C:/Users/duzhe/OneDrive/Desktop/sin_gen/rtl/sin_gen.v
+FC:/Users/duzhe/OneDrive/Desktop/sin_gen/rtl/sin_gen.v
+L0 1
+Z4 OL;L;10.5;63
+r1
+!s85 0
+31
+Z5 !s108 1768660135.000000
+!s107 C:/Users/duzhe/OneDrive/Desktop/sin_gen/rtl/sin_gen.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/duzhe/OneDrive/Desktop/sin_gen/rtl|C:/Users/duzhe/OneDrive/Desktop/sin_gen/rtl/sin_gen.v|
+!i113 0
+Z6 o-vlog01compat -work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+!s92 -vlog01compat -work work +incdir+C:/Users/duzhe/OneDrive/Desktop/sin_gen/rtl -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+vsin_gen_tb
+R2
+!i10b 1
+!s100 2JG2X:UN]B6M=DV0M@M>L3
+I^97];jAde[`440W;]_TAK1
+R3
+R0
+w1768659833
+8C:/Users/duzhe/OneDrive/Desktop/sin_gen/prj/../sim/sin_gen_tb.v
+FC:/Users/duzhe/OneDrive/Desktop/sin_gen/prj/../sim/sin_gen_tb.v
+L0 3
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/duzhe/OneDrive/Desktop/sin_gen/prj/../sim/sin_gen_tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/duzhe/OneDrive/Desktop/sin_gen/prj/../sim|C:/Users/duzhe/OneDrive/Desktop/sin_gen/prj/../sim/sin_gen_tb.v|
+!i113 0
+R6
+!s92 -vlog01compat -work work +incdir+C:/Users/duzhe/OneDrive/Desktop/sin_gen/prj/../sim -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+vsinrom
+R2
+!i10b 1
+!s100 XLcOfMGcGH1:MabQml^n42
+I3;<;^eGVgONiCeXceVh2:0
+R3
+R0
+w1768659652
+8C:/Users/duzhe/OneDrive/Desktop/sin_gen/prj/sinrom.v
+FC:/Users/duzhe/OneDrive/Desktop/sin_gen/prj/sinrom.v
+L0 39
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/duzhe/OneDrive/Desktop/sin_gen/prj/sinrom.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/duzhe/OneDrive/Desktop/sin_gen/prj|C:/Users/duzhe/OneDrive/Desktop/sin_gen/prj/sinrom.v|
+!i113 0
+R6
+!s92 -vlog01compat -work work +incdir+C:/Users/duzhe/OneDrive/Desktop/sin_gen/prj -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
